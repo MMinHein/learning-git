@@ -1,2 +1,5 @@
 # learning-git
-Of course, I learned it from Amigoscode..
+
+## This repo was used to learn git from Amigoscode
+
+https://amigoscode.com/courses/git-github
